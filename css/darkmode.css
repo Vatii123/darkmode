@@ -1,0 +1,48 @@
+body {
+    font-family: 'Lexend Deca';
+    background-color: 	#000000;
+}
+
+h1 {
+    font-family: 'Lexend Deca';
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+h2 {
+    font-family: 'Lexend Deca';
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+h3 {
+    font-family: 'Lexend Deca';
+    position: absolute;
+    top: 49%;
+    left: 59%;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+h4 {
+    font-size: 40px;
+    position: absolute;
+    top: 47.5%;
+    left: 42%;
+    color: whitesmoke;
+}
+
+h5 {
+    font-family: 'Lexend Deca';
+    position: absolute;
+    top: 33%;
+    left: 46%;
+    font-size: 50px;
+    color: whitesmoke;
+}
